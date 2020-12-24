@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/org.springframework.beans-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/org.springframework.core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-beans-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-context-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-core-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-expression-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-instrument-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-jcl-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-jdbc-5.1.3.RELEASE.jar" sourcepath="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/org.springframework.jdbc-3.0.2.release.jar/org.springframework.jdbc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-jms-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-messaging-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-orm-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-oxm-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-test-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-tx-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-web-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-webflux-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-webmvc-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jelly/OneDrive/바탕 화면/라이브러리/spring-websocket-5.1.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
