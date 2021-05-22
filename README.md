@@ -1,7 +1,8 @@
 # insuranceSystem
 ![Language](https://img.shields.io/badge/Language-java-orange.svg) 
-![Language](https://img.shields.io/badge/IDE-eclipse-blue.svg)
+![Language](https://img.shields.io/badge/IDE-eclipse-green.svg)
 ![Language](https://img.shields.io/badge/xml-yellow.svg)
+![Language](https://img.shields.io/badge/DBMS-mySQL-blue.svg)
 
 # 🚀소개
 명지대학교 2020 2학기 **소프트웨어 아키텍쳐** 기말과제 프로젝트입니다. <br></br>
